@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sahaj Gupta"
+title: "Md. Sohayeb Hosssain"
 author_profile: true
 redirect_from:
   - /about/
